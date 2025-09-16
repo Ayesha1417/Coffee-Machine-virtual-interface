@@ -40,6 +40,6 @@ Webcam
 🔹**Install dependencies:**
 pip install opencv-python cvzone
 
-🔹**Run the Project**
+🔹**Run the Project:**
 python main.py
 
