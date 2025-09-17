@@ -43,3 +43,23 @@ pip install opencv-python cvzone
 🔹**Run the Project:**
 python main.py
 
+🔹**Screenshots**
+
+SELECT YOUR DRINK
+![1](https://github.com/user-attachments/assets/68be07fe-064a-44e1-a076-df10754cf397)
+
+SELECT SUGAR LEVEL
+![2](https://github.com/user-attachments/assets/2f43f487-803a-4438-9e45-295015be7ec1)
+
+SELECT SIZE
+![3](https://github.com/user-attachments/assets/cf1f07b8-630d-44a4-a429-3afc38542718)
+
+ORDER PLACED
+![4](https://github.com/user-attachments/assets/376d725a-0f28-4d99-a8ee-5a78b7048cee)
+
+
+
+
+
+
+
